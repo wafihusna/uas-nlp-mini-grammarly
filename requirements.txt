@@ -1,0 +1,7 @@
+streamlit
+nltk
+language-tool-python
+textblob
+pyspellchecker
+python-Levenshtein
+spacy
