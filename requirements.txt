@@ -1,7 +1,7 @@
 streamlit
 nltk
-language-tool-python
 textblob
+language-tool-python
 pyspellchecker
 python-Levenshtein
-spacy
+pandas
